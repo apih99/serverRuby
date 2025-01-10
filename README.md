@@ -37,7 +37,7 @@ A lightweight, secure, and multi-threaded web server implemented in Ruby. This p
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/apih99/serverRuby
    cd ruby-web-server
    ```
 
